@@ -67,10 +67,10 @@ void loop () {
   
   // ping a remote server once every few seconds
   if (micros() - timer >= 5000000) {
-    ether.hisip[0]=172;
-    ether.hisip[1]=0;
-    ether.hisip[2]=0;
-    ether.hisip[3]=1;
+    ether.hisip[0]=172;   //you should change this with your ping taget.
+    ether.hisip[1]=0;     //you should change this with your ping taget.
+    ether.hisip[2]=0;     //you should change this with your ping taget.
+    ether.hisip[3]=1;     //you should change this with your ping taget.
     ether.printIp("to ping: ", ether.hisip);
     ether.printIp("Pinging: ", ether.hisip);
     timer = micros();
