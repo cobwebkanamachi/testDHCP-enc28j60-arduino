@@ -1,4 +1,10 @@
 # testDHCP-enc28j60-arduino
+
+Notice:
+I do not care accuracy of this and wrote here.
+Please testify every thing with yourself :-).
+I can not take responsibility.
+
 ethercardtest this is a fork of this bellow.<BR>
 https://github.com/jcw/ethercard/blob/master/examples/testDHCP/testDHCP.ino<BR>
 <BR>
@@ -14,3 +20,4 @@ DNS IP: DNS of self<BR>
 to ping: your ping target<BR>
 Pinging: your ping target<BR>
 <pre>>>> ping from: IP of another machine<BR>
+
