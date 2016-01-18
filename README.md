@@ -14,5 +14,3 @@ DNS IP: DNS of self<BR>
 to ping: your ping target<BR>
 Pinging: your ping target<BR>
 <pre>>>> ping from: IP of another machine<BR>
->>> ping from: IP of another machine<BR>
->>>> ping from: IP of another machine<BR>
